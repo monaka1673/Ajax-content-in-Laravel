@@ -81,7 +81,7 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 composer install
 ```
 
-### アプリケーションキを設定
+### アプリケーションキーを設定
 
 - .envファイル作成
 
